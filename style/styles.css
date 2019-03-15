@@ -1,8 +1,8 @@
-.logo {
-  text-align: center;
-}
-body {
+html {
   background-color: #e3ffd9;
   padding: 10px;
-  margin:0;
+}
+
+.logo {
+  text-align: center;
 }
