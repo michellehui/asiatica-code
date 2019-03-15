@@ -6,3 +6,8 @@ html {
 .logo {
   text-align: center;
 }
+
+.banner {
+  width: 100%;
+  display: block;
+}
