@@ -1,6 +1,13 @@
-body {
-  color: black;
-  font-family: arial;
-  margin: 0px;
-  background-color: rgb(227, 255, 217);
+html {
+  background-color: #e3ffd9;
+  padding: 10px;
+}
+
+.logo {
+  text-align: center;
+}
+
+.banner {
+  width: 100%;
+  display: block;
 }
